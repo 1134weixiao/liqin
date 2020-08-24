@@ -30,7 +30,7 @@
                 <li></li>
             </ol>
         </div>
-        <canvas width="100%" height="1087" id="sakura"></canvas>
+        <canvas width="1680" height="1050" id="sakura"></canvas>
     </div>
     <!-- sakura shader -->
     <script id="sakura_point_vsh" type="x-shader/x_vertex">
